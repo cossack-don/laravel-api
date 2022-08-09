@@ -1,6 +1,12 @@
 # laravel-api
 
-<a href="https://github.com/russsiq/laravel-docs-ru/">Русско язычная документация Laravel 9</a>
+<a href="https://github.com/russsiq/laravel-docs-ru/">Русско язычная документация Laravel 9</a> <br/>
+<a href="https://www.youtube.com/playlist?list=PLd2_Os8Cj3t8pnG4ubQemoqnTwf0VFEtU">Курс по Laravel</a> <br/>
+<a href="https://www.code.mu/ru/php/framework/laravel/book/prime/">Учебник по Laravel</a>
+
+### Запуск проект
+cd project </br>
+php artisan serve
 
 ### Задачи
 1. Развернуть laravel
@@ -8,8 +14,6 @@
 3. Разобраться с CORS, чтобы не мешал. Протестить dir (в ней dir-front, dir-laravel-api)
 4. Разобраться с routers
 5. Разобраться с resources
-
-
 
 ### Конечный результат шага 1
 
